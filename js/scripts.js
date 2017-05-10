@@ -1,3 +1,3 @@
 $(function() {
-  $('#prizes').accordion();
+	$('#prizes').tabs();
 });
